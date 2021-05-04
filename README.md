@@ -2,7 +2,7 @@
 
 A home keyboard with synth feature. 
 
--   **Formats:** EXS24
+-   **Formats:** Logic, Kontakt
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Casio_SD_Synthesizers/)
 
 
