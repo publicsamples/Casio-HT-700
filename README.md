@@ -7,7 +7,7 @@ A home keyboard with synth feature.
 
 
 
-**This collection requires you to download the audio port seperately**
+**This collection requires you to download the audio portion seperately**
 
 [Download Audio](https://www.dropbox.com/sh/20xw7luvwx69qx8/AAD2wjeDgoLfLh1sHXGxSiWza?dl=0)
 
