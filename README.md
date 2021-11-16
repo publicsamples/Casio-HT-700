@@ -5,23 +5,15 @@ A home keyboard with synth feature.
 -   **Formats:** Logic, Kontakt
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Casio_SD_Synthesizers/)
 
+[Download Audio](https://github.com/publicsamples/Casio-HT-700/releases/tag/1.0)
 
+## **Get help**
 
-**This collection requires you to download the audio portion seperately**
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
 
-[Download Audio](https://www.dropbox.com/sh/20xw7luvwx69qx8/AAD2wjeDgoLfLh1sHXGxSiWza?dl=0)
+## **Support this project**
 
-# Loading
-
-**Logic Sampler/EXS24**
-
-1. Copy the Audio folder to Music/Audio Music Apps/Samples
-2. Copy the "EXS" folder to Music/Audio Music Apps/Sampler Instruments
-3. Open Logic Pro Sampler/EXS24 and select "Refresh Library" in the Library pane
-4. Select patches under "User Patches" in the library panel 
-
-# Support this project
-
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
-
+[
+![usbdrive](https://www.modularsamples.com/img/USB.png)
+](https://www.modularsamples.com/sample-library-on-usb-drive//)
 
