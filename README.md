@@ -15,5 +15,5 @@ A home keyboard with synth feature.
 
 [
 ![usbdrive](https://www.modularsamples.com/img/USB.png)
-](https://www.modularsamples.com/sample-library-on-usb-drive//)
+](https://www.modularsamples.com/sample-library-on-usb-drive/)
 
